@@ -1,0 +1,7 @@
+build/
+.tmp
+.metadata
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+
